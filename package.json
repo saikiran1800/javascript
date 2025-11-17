@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "restaurant-task",
+=======
+  "name": "react-firebase-crud",
+>>>>>>> aeae68217f8e44d4f8e66ac5e8667fd146d72bc1
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -9,11 +13,17 @@
     "@testing-library/user-event": "^13.5.0",
     "bootstrap": "^5.3.8",
     "firebase": "^12.3.0",
+<<<<<<< HEAD
     "json-server": "^1.0.0-beta.3",
     "react": "^19.1.1",
     "react-bootstrap": "^2.10.10",
     "react-dom": "^19.1.1",
     "react-router-dom": "^7.9.3",
+=======
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "react-router-dom": "^7.9.2",
+>>>>>>> aeae68217f8e44d4f8e66ac5e8667fd146d72bc1
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },

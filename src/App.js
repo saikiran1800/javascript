@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React, { useState, useEffect } from "react";
 import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
 
@@ -109,6 +110,17 @@ function App() {
         </Routes>
       </div>
     </BrowserRouter>
+=======
+
+import './App.css';
+import NavBar from './components/NavBar';
+
+function App() {
+  return (
+    <div className="App">
+     <NavBar/>
+    </div>
+>>>>>>> aeae68217f8e44d4f8e66ac5e8667fd146d72bc1
   );
 }
 
